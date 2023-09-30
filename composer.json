@@ -1,0 +1,7 @@
+{
+  "name": "authwit/kadence-custom-fonts",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.4"
+  }
+}

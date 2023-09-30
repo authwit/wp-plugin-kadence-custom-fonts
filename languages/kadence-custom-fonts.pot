@@ -1,0 +1,175 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kadence-custom-fonts\n"
+"POT-Creation-Date: 2018-05-14 13:50-0600\n"
+"PO-Revision-Date: 2015-05-08 13:15-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr_e;esc_attr__;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: includes/cmb\n"
+
+#: includes/font_post.php:4 includes/font_post.php:16
+msgid "Custom Fonts"
+msgstr ""
+
+#: includes/font_post.php:5
+msgid "Custom Font"
+msgstr ""
+
+#: includes/font_post.php:6 includes/font_post.php:7
+msgid "Add New Custom Font"
+msgstr ""
+
+#: includes/font_post.php:8
+msgid "Edit Custom Font"
+msgstr ""
+
+#: includes/font_post.php:9
+msgid "New Custom Font"
+msgstr ""
+
+#: includes/font_post.php:10
+msgid "All Custom Fonts"
+msgstr ""
+
+#: includes/font_post.php:11
+msgid "View Custom Font"
+msgstr ""
+
+#: includes/font_post.php:12
+msgid "Search Custom Fonts"
+msgstr ""
+
+#: includes/font_post.php:13
+msgid "No Custom Fonts found"
+msgstr ""
+
+#: includes/font_post.php:14
+msgid "No Custom Fonts found in Trash"
+msgstr ""
+
+#: includes/metaboxes.php:11
+msgid "Font Details"
+msgstr ""
+
+#: includes/metaboxes.php:16
+msgid "Font Family Name"
+msgstr ""
+
+#: includes/metaboxes.php:17
+msgid "Make sure it matches exactly with the font e.g. Raleway"
+msgstr ""
+
+#: includes/metaboxes.php:22
+msgid "Font Specific Style Name - Optional"
+msgstr ""
+
+#: includes/metaboxes.php:23
+msgid "Make sure it matches exactly with the font e.g. Raleway Bold Italic"
+msgstr ""
+
+#: includes/metaboxes.php:28
+msgid ".eot Font file"
+msgstr ""
+
+#: includes/metaboxes.php:29
+msgid "Upload .eot font file."
+msgstr ""
+
+#: includes/metaboxes.php:45
+msgid ".woff2 Font file"
+msgstr ""
+
+#: includes/metaboxes.php:46
+msgid "Upload .woff2 font file."
+msgstr ""
+
+#: includes/metaboxes.php:65
+msgid ".woff Font file"
+msgstr ""
+
+#: includes/metaboxes.php:66
+msgid "Upload .woff font file."
+msgstr ""
+
+#: includes/metaboxes.php:82
+msgid ".ttf Font file"
+msgstr ""
+
+#: includes/metaboxes.php:83
+msgid "Upload .ttf font file."
+msgstr ""
+
+#: includes/metaboxes.php:90 includes/metaboxes.php:109
+msgid "Add Font"
+msgstr ""
+
+#: includes/metaboxes.php:101
+msgid ".svg Font file"
+msgstr ""
+
+#: includes/metaboxes.php:102
+msgid "Upload .svg font file."
+msgstr ""
+
+#: includes/metaboxes.php:117
+msgid "Font Weight"
+msgstr ""
+
+#: includes/metaboxes.php:123
+msgid "100"
+msgstr ""
+
+#: includes/metaboxes.php:124
+msgid "200"
+msgstr ""
+
+#: includes/metaboxes.php:125
+msgid "300"
+msgstr ""
+
+#: includes/metaboxes.php:126
+msgid "400"
+msgstr ""
+
+#: includes/metaboxes.php:127
+msgid "500"
+msgstr ""
+
+#: includes/metaboxes.php:128
+msgid "600"
+msgstr ""
+
+#: includes/metaboxes.php:129
+msgid "700"
+msgstr ""
+
+#: includes/metaboxes.php:130
+msgid "800"
+msgstr ""
+
+#: includes/metaboxes.php:131
+msgid "900"
+msgstr ""
+
+#: includes/metaboxes.php:135
+msgid "Font Style"
+msgstr ""
+
+#: includes/metaboxes.php:140
+msgid "Normal"
+msgstr ""
+
+#: includes/metaboxes.php:141
+msgid "Italic"
+msgstr ""
